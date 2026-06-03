@@ -1,12 +1,12 @@
 # PlayinGrocery 🛒
 
-AI-powered grocery planner for students. Enter your country, get a weekly meal plan, grocery list, and budget tips — powered by 4 AI agents.
+AI-powered grocery planner for students. Enter your country, get a weekly meal plan, grocery list, and budget tips - powered by 4 AI agents.
 
 ## Tech Stack
 
-- **Frontend** — React + Vite
-- **Backend** — Node.js + Express
-- **AI** — Groq (free)
+- **Frontend** - React + Vite
+- **Backend** - Node.js + Express
+- **AI** - Groq (free)
 
 ## Setup
 
@@ -43,8 +43,8 @@ PORT=3001
 
 ## Deploy
 
-- **Frontend** → [Vercel](https://vercel.com) — import repo, set root to `frontend`
-- **Backend** → [Render](https://render.com) — import repo, set root to `backend`, add `GROQ_API_KEY` in environment variables
+- **Frontend** → [Vercel](https://vercel.com) - import repo, set root to `frontend`
+- **Backend** → [Render](https://render.com) - import repo, set root to `backend`, add `GROQ_API_KEY` in environment variables
 
 ## Features
 
