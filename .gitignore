@@ -1,0 +1,26 @@
+# Dependencies
+backend/node_modules
+frontend/node_modules
+
+# Environment variables - NEVER commit these
+backend/.env
+.env
+
+# Build output
+frontend/dist
+frontend/build
+
+# Playwright browsers
+backend/node_modules/.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.vscode
+.idea
